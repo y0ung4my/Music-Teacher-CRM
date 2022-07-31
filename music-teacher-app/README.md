@@ -22,14 +22,14 @@ _This is a react application that allows the user to track their students, billi
 
 ## Component Tree
 
-![Component Tree](.\Teacher-Manager-App.drawio.png)
+![Component Tree](https://github.com/y0ung4my/Music-Teacher-Manager/blob/main/music-teacher-app/Teacher-Manager-App.drawio.png)
 
 ## Setup/Installation Requirements
 
 **To clone the repository**
 * _open terminal_
 * _enter the following into terminal: `git clone https://github.com/y0ung4my/music-teacher-app.git`_
-* _navigate to the project directory and enter `npm install`_
+* _navigate to the project directory titled `music-teacher-app` and enter `npm install`_
 
 **To run the application on your computer**
 * _in the terminal, enter: `npm run start` to see changes in your web browser as changes are made_
